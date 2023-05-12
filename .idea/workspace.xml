@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30719f8c-55c8-48dc-a651-3950fcf4f168" name="Default Changelist" comment="" />
+    <list default="true" id="30719f8c-55c8-48dc-a651-3950fcf4f168" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Commands/SetupCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Commands/SetupCommand.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -37,7 +40,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683885017905</updated>
-      <workItem from="1683885019151" duration="330000" />
+      <workItem from="1683885019151" duration="523000" />
+      <workItem from="1683885727564" duration="53000" />
     </task>
     <servers />
   </component>
@@ -54,5 +58,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

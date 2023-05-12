@@ -40,7 +40,7 @@ class SetupCommand extends Command
     {
         $this->info('Setting up Laravel Bangladesh Universities list');
         $this->info('Database migrating..');
-        Artisan::call('migrate', ['--path' => 'packages/tifoysal/bangladesh-universities/src/Migrations']);
+        Artisan::call('migrate', ['--path' => '/vendor/bangladesh-universities/src/Migrations']);
         $this->info('Database successfully migrated');
 
         $this->info('Seeding Universities List');
